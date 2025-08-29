@@ -4,7 +4,7 @@ This project implements an automatic email spam classification system using mach
 
 ## 📊 Dataset
 
-**Source:** [Spambase Dataset - Kaggle](https://www.kaggle.com/datasets/somesh24/spambase/data)
+**Source:** [Spam Email Classification Dataset - Kaggle](https://www.kaggle.com/datasets/somesh24/spambase/data)
 
 The dataset contains information about emails labeled as spam or not spam, with the following details:
 
